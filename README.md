@@ -10,6 +10,9 @@ Before running the script, the only three things you need to provide are:
 
 All the other variables are optional and you can change them to your liking.
 
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/60ffcaae-520d-4493-b085-ff57af080af6">
+
+
 
 ## Architecture Components
 
